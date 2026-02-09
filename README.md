@@ -4,3 +4,4 @@ A collection of files commonly used by threat actors in phishing campagins / wat
 Files that trick the user into thinking they are one thing and lunch system commands in the background.
 I am using these to test and train the security systems I work with.
 If you are reading this, you can use them as well if you wish  :)
+The files just run cacl.exe or msg.exe for POC, nothing malicious.
